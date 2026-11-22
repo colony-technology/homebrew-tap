@@ -1,4 +1,4 @@
-class Pricklypair < Formula
+class pricklypair < Formula
   desc "FIDO, passkey, dice checkpoints; operation approvals; agent grants"
   homepage "https://colony.technology/pricklypair"
   url "https://github.com/colony-technology/pricklypair/archive/refs/tags/v0.2.1.tar.gz"
